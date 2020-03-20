@@ -2,9 +2,8 @@
 
 from the command prompt clone the project
 
-* $git clone https://github.com/techsithgit/react-with-redux.git
-* $cd react-with-redux
+* $git clone https://github.com/AmShubhangi/asyncReduxSagaMiddleware.git
+* $cd asyncReduxSagaMiddleware
 * $npm install
 * $npm start
 
-[Watch the Tutorial](https://youtu.be/Fq15pkckMqQ).
